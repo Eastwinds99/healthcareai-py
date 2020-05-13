@@ -8,7 +8,7 @@ If you have not installed healthcare.ai, refer to the instructions here:
 To run this example:
   python3 example_advanced.py
 
-This code uses the diabetes sample data in datasets/data/diabetes.csv.
+This code uses the diabetes sample data in datasets/data/diabetes.csv.  May 13, 2020
 """
 import pandas as pd
 from sklearn.pipeline import Pipeline
